@@ -1,6 +1,7 @@
 curl https://sh.rustup.rs -sSf | sh -s -- --no-modify-path -y
 rustup component add clippy
 rustup component add rustfmt
+rustup component add rls
 rustup install nightly
 rustup default nightly
 cargo install exa bat ripgrep
