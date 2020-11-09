@@ -3,3 +3,4 @@ rustup component add clippy
 rustup component add rustfmt
 rustup install nightly
 rustup default nightly
+cargo install exa bat ripgrep
