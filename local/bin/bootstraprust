@@ -4,4 +4,4 @@ rustup component add rustfmt
 rustup component add rls
 rustup install nightly
 rustup default nightly
-cargo install exa bat ripgrep cargo-edit
+cargo install exa bat ripgrep cargo-edit cargo-update
