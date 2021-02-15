@@ -1,0 +1,2 @@
+#!/bin/sh
+~ cargo install exa bat ripgrep cargo-edit cargo-update fd svgcleaner
