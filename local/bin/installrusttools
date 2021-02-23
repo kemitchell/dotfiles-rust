@@ -1,2 +1,2 @@
 #!/bin/sh
-cargo install exa bat ripgrep cargo-edit cargo-update fd svgcleaner
+cargo install amp exa bat ripgrep cargo-edit cargo-update fd sccache svgcleaner
