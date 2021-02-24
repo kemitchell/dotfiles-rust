@@ -1,4 +1,4 @@
 #!/bin/sh
 rustupdate
-hash cargo-update || cargo install cargo-update
+cargo update
 cargo install-update -a
