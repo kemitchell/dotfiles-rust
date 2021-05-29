@@ -1,2 +1,2 @@
 #!/bin/sh
-cargo install amp exa bat ripgrep cargo-edit cargo-update fd sccache svgcleaner
+cargo install amp exa bat ripgrep cargo-edit cargo-update fd sccache svgcleaner jql petname
