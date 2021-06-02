@@ -1,0 +1,3 @@
+#!/bin/sh
+rustup toolchain uninstall nightly
+rustup default stable
