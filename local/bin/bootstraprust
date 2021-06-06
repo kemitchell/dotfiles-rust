@@ -8,4 +8,3 @@ rustup component add rustfmt
 rustup component add rls
 rustup install stable
 rustup default stable
-installrusttools
